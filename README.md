@@ -11,10 +11,14 @@
 
 <br>
 
-## Want to see live preview »
+## Want to see preview »
 
 ![1](https://user-images.githubusercontent.com/97023360/195139309-44f41eff-aa33-4593-bea0-ba63e54e0de4.png)
 ![2](https://user-images.githubusercontent.com/97023360/195139330-a9f3106d-77e7-4034-aaf3-7bdbd6577613.png)
+
+<br>
+
+## [Click to see Live Demo link »](https://my-client-psi.vercel.app/)
 
 <br>
 
@@ -30,9 +34,6 @@
 
 <br>
 
-## [Click to see Live Demo link »](https://afternoon-wave-69263.herokuapp.com/)
-
-<br>
 
 ## Glimpses on MyNetDiaryApp-Clone :
 
